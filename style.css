@@ -14,6 +14,7 @@
   list-style: none;
   height: 60px; /* should be the same as line-height */
   line-height: 60px; /* should be the same as height */
+  margin: 0 auto;   /* Optional: centers the block horizontally */
   padding: 0 40px; /* "0" sets top and bottom padding to none */
 }
 
