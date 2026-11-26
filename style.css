@@ -5,6 +5,8 @@
 nav {
   background: #184B8C;
   height: 60px; /* set same as height & line-height below */
+  font-family: arial;
+  font-size: 225%;
 }
 
 nav li {
