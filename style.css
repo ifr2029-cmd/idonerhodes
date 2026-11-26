@@ -5,7 +5,7 @@
 .nav {
   background: #184B8C;
   height: 60px; /* set same as height & line-height below */
-  margin: 0 auto;   /* Optional: centers the block horizontally */
+  align-items: center;
 }
 
 .nav li {
