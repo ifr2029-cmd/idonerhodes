@@ -5,6 +5,7 @@
 .nav {
   background: #184B8C;
   height: 60px; /* set same as height & line-height below */
+  text-align: center;
 }
 
 .nav li {
