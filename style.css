@@ -15,6 +15,9 @@
   height: 60px; /* should be the same as line-height */
   line-height: 60px; /* should be the same as height */
   padding: 0 40px; /* "0" sets top and bottom padding to none */
+  max-width: 600px; /* Caps the width */
+  margin: 0 auto;   /* Optional: centers the block horizontally */
+  padding: 16px;    /* Optional: adds breathing room inside the edges */
 }
 
 .nav li:hover {
